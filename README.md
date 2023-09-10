@@ -9,7 +9,7 @@
 
 I'm a graduate in Computer Science 🎓 from Silicon Institute Of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **4** years ago.
+Joined Github **2** years ago.
 
 Since then I pushed **2767**+ commits, opened **229**+ issues, submitted **294**+ pull requests, created **20**+ gists and contributed to **20**+ public repositories.
 
