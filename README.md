@@ -50,7 +50,7 @@ Like My Work?
 <code><img height="27" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="azure"></code>
 
-<div align="center">
+<div align="center" style="margin-top:10">
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
