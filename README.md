@@ -11,13 +11,11 @@ I'm a graduate in Computer Science ğŸ“ from Silicon Institute Of Technology ğŸ
 
 Joined Github **2** years ago.
 
-Since then I pushed **2767**+ commits, opened **229**+ issues, submitted **294**+ pull requests, created **20**+ gists and contributed to **20**+ public repositories.
+Since then I pushed **276**+ commits, submitted **24**+ pull requests, created **20**+ gists
 
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/skr18" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" height="60px" width="217px" ></a>
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://www.buymeacoffee.com/skr18)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
