@@ -23,13 +23,12 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 🚀 &nbsp; I’m Full Stack Developer with sound knowledege in Devops Domain .
+- 🛠 &nbsp; I’m currently working with React, Asp.Net, Nodejs, Express <br /> Mysql, Mongodb, Javascript, etc.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/skr18?tab=repositories).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: sujeetrath123@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/drive/folders/1qZjbWu5yK4XxxSLeRr8mIVBKFSFogu4J).
 
 ### My Absolute Favorites:
 
