@@ -31,8 +31,8 @@ Like My Work?
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 
 ### Languages and Tools:
 
